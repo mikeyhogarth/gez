@@ -1,9 +1,7 @@
 require "gez/version"
 
 module Gez
-  # Your code goes here...
 end
-
 
 module Kernel
   GEZ = 12
