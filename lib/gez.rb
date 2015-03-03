@@ -26,7 +26,11 @@ class Numeric
   end
 
 
+  #
+  # to_gez
+  #
   def to_gez
     self.to_f / gez
   end
+
 end
