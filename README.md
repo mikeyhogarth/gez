@@ -31,8 +31,8 @@ a.gez?
 => true
 
 
-# Number conversion has also been implemented. The following arithmetic demonstrates that 123 is the 
-# equivalent of "10.25" gezzes.
+# Number conversion has also been implemented. The following arithmetic demonstrates 
+# that 123 is the equivalent of "10.25" gezzes.
 
 a = 123
 a.to_gez
