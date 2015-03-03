@@ -3,30 +3,13 @@
 This is a very simple gem that adds the concept of a "gez" to the ruby kernal.
 
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'gez'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install gez
-
-and then include as required:
-
-    require 'gez'
 
 ## Usage
 
 First of all, and I can not stress this enough really, you should definately *not* use this gem. It exists purely for comedy purposes and 
 whilst it is fully unit tested and 100% functionally works, there are *absolutely no* commercial applications for it.
+
+That said, here is some example usage:
 
 ```ruby
 
@@ -57,6 +40,27 @@ a.to_gez
 
 
 ```
+
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'gez'
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install gez
+
+and then include as required:
+
+    require 'gez'
 
 ## Contributing
 
